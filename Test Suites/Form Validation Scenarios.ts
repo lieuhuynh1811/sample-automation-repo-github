@@ -41,7 +41,7 @@
       <guid>d249c115-903a-4985-968d-62a8c7160741</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify that data entered in a form is correctly saved and displayed after submission</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases/Verify that data entered in a form is correctly saved and displayed after submission</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -60,14 +60,14 @@
       <guid>5660a7b0-bfc3-433b-a616-be7534a916b7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the application logs out the user after 15 minutes of inactivity</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases/Verify the application logs out the user after 15 minutes of inactivity</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>5f04eb1a-6c84-475f-824c-b68236d5d194</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
