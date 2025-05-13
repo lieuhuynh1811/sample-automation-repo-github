@@ -25,7 +25,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Form Validation Scenarios</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Form Validation Scenarios(Update TS name, Add TC, Remove TC)</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
