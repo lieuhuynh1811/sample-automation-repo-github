@@ -31,25 +31,6 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>0839ac33-49c3-489d-b9b6-6ea183470811</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the user can upload a profile picture in supported file formats (e.g., JPG, PNG)</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>0be9b841-bf32-4f9b-82bc-05754494fc61</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>c1268245-bba6-47ba-ac1f-2734998919eb</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
       <guid>3b2a7b37-97f3-4ee1-a91a-5c3afc49cb3f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
