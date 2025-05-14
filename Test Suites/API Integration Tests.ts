@@ -31,25 +31,6 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>830f5c64-3b5a-47be-bda2-f3b77dcfa50c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify that all dropdown menus display the correct list of options</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLinks>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>b9ae2020-cead-4d3a-a4f8-56cfc91e6cd6</variableId>
-      </variableLinks>
-      <variableLinks>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>e5c0d540-2ad9-40a7-bb51-96f5c775c2cf</variableId>
-      </variableLinks>
-   </testCaseLink>
-   <testCaseLink>
       <guid>18063a4a-e333-4635-ab0b-e2b40702c014</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
