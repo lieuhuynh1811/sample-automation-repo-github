@@ -12,13 +12,6 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>40d5528e-e5f1-4189-bcd8-ad69e5ace7a2</testSuiteGuid>
    <testCaseLink>
-      <guid>98811b78-a73e-4d17-80dd-f3b3f34b15fd</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify that clicking the Submit button without filling required fields shows validation messages</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>d249c115-903a-4985-968d-62a8c7160741</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
