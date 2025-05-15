@@ -12,41 +12,29 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>f0b6e781-5c7e-4e48-ab32-6c160c52f315</testSuiteGuid>
    <testCaseLink>
-      <guid>d200cc73-47f5-4c29-a8f2-22801faedba0</guid>
+      <guid>8f0bb225-e1b4-4e95-a05b-0009bfdc1760</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Feature Test Cases/Verify the application logs out the user after 15 minutes of inactivity</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>11df25f3-e08d-49a6-9803-de73e32f2dba</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Feature Test Cases/Verify that data entered in a form is correctly saved and displayed after submission</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
+      <variableLinks>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
          <variableId>269060e5-49c4-4771-af87-4bebef169502</variableId>
-      </variableLink>
-      <variableLink>
+      </variableLinks>
+      <variableLinks>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
          <variableId>bf303a06-fe36-4a87-b581-5dbfb9794c78</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>54038493-08be-4a73-8705-b327b4ef5da6</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases/Verify the user is able to log in with valid credentials</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>14d98e7b-4ac8-4e28-8ce7-394001d188f0</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
-      </variableLink>
+      </variableLinks>
    </testCaseLink>
 </TestSuiteEntity>
