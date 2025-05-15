@@ -12,7 +12,78 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>de52c099-4846-4587-9d8f-41e771555e9a</testSuiteGuid>
    <testCaseLink>
-      <guid>8c952625-95c0-4510-a8ab-7c0a36ac8f73</guid>
+      <guid>19b12e31-ff61-4ec7-8eed-397199cf9e0e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Main Test Cases/Verify the user is able to log in with valid credentials</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLinks>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>14d98e7b-4ac8-4e28-8ce7-394001d188f0</variableId>
+      </variableLinks>
+      <variableLinks>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
+      </variableLinks>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fd663211-3423-4703-91e6-017d6baff2d7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Main Test Cases/Verify that all dropdown menus display the correct list of options</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLinks>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b9ae2020-cead-4d3a-a4f8-56cfc91e6cd6</variableId>
+      </variableLinks>
+      <variableLinks>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e5c0d540-2ad9-40a7-bb51-96f5c775c2cf</variableId>
+      </variableLinks>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bf121c62-5153-4342-a06e-1f3de47c3bcf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Main Test Cases/Verify the user can upload a profile picture in supported file formats (e.g., JPG, PNG)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLinks>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0be9b841-bf32-4f9b-82bc-05754494fc61</variableId>
+      </variableLinks>
+      <variableLinks>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c1268245-bba6-47ba-ac1f-2734998919eb</variableId>
+      </variableLinks>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>68614faf-15ce-418b-8ab7-82fac079611d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Main Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8b305fb3-5127-41ef-aee0-fa41ef8d9a53</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Main Test Cases/Verify the application logs out the user after 15 minutes of inactivity</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e03afc3c-b3ff-4963-b110-8719947aa02a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Main Test Cases/Verify that data entered in a form is correctly saved and displayed after submission</testCaseId>
@@ -29,19 +100,5 @@
          <value></value>
          <variableId>bf303a06-fe36-4a87-b581-5dbfb9794c78</variableId>
       </variableLinks>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>445e7ebc-814d-4fba-9037-d470484f8bd7</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the system displays an error message when incorrect password is entered</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>8d91fce3-dfab-4df9-bc0f-6a533c3c5455</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify that clicking the Submit button without filling required fields shows validation messages</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
