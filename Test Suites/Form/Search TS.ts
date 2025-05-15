@@ -15,7 +15,7 @@
       <guid>d200cc73-47f5-4c29-a8f2-22801faedba0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases/Verify that data entered in a form is correctly saved and displayed after submission</testCaseId>
+      <testCaseId>Test Cases/Feature Test Cases/Verify that data entered in a form is correctly saved and displayed after submission</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
