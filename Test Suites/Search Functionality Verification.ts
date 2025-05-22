@@ -60,14 +60,14 @@
       <guid>09fe5f63-935b-4e5c-bf2a-9e951e9ce279</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the system displays an error message when incorrect password is entered</testCaseId>
+      <testCaseId>Test Cases/Verify the system displays an error message when incorrect password is entered</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>af2f2c0c-068b-43af-83b0-ec7cf78faa6b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the search functionality returns relevant results for a given keyword</testCaseId>
+      <testCaseId>Test Cases/Verify the search functionality returns relevant results for a given keyword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
