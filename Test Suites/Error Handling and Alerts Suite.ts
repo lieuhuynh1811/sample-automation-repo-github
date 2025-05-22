@@ -79,7 +79,7 @@
       <guid>8b305fb3-5127-41ef-aee0-fa41ef8d9a53</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/____Verify the application logs out the user after 15 minutes of inactivity(),.- updated(),.- updated(),.- updated(),.- updated</testCaseId>
+      <testCaseId>Test Cases/Verify the application logs out the user after 15 minutes of inactivity</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
