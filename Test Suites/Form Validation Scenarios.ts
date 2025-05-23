@@ -67,7 +67,7 @@
       <guid>5f04eb1a-6c84-475f-824c-b68236d5d194</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
+      <testCaseId>Test Cases/New Test Folder/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
