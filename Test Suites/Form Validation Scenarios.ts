@@ -34,7 +34,7 @@
       <guid>98811b78-a73e-4d17-80dd-f3b3f34b15fd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify that clicking the Submit button without filling required fields shows validation messages</testCaseId>
+      <testCaseId>Test Cases/Verify that clicking the Submit button without filling required fields shows validation messages</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -74,7 +74,7 @@
       <guid>277908ea-68b0-445e-85cd-d5df3e832386</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the search functionality returns relevant results for a given keyword</testCaseId>
+      <testCaseId>Test Cases/Verify the search functionality returns relevant results for a given keyword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
