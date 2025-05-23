@@ -34,7 +34,7 @@
       <guid>98811b78-a73e-4d17-80dd-f3b3f34b15fd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify that clicking the Submit button without filling required fields shows validation messages</testCaseId>
+      <testCaseId>Test Cases/Verify that clicking the Submit button without filling required fields shows validation messages</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -67,7 +67,7 @@
       <guid>5f04eb1a-6c84-475f-824c-b68236d5d194</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
+      <testCaseId>Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

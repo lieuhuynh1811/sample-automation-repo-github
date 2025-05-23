@@ -15,7 +15,7 @@
       <guid>f6276197-ef12-47e6-a937-1de660250eee</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the user is able to log in with valid credentials</testCaseId>
+      <testCaseId>Test Cases/Verify the user is able to log in with valid credentials</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -74,7 +74,7 @@
       <guid>2d5b98fc-ae8f-4469-ac55-a129c060e6ab</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
+      <testCaseId>Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
