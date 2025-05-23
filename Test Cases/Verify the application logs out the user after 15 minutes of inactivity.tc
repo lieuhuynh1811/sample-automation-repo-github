@@ -9,7 +9,7 @@ Steps:
 
 Expected results:
 Appointment Confirmation page is displayed</description>
-   <name>___Verify the application logs out the user after 15 minutes of inactivity(),.- updated(),.- updated(),.- updated</name>
+   <name>Verify the application logs out the user after 15 minutes of inactivity</name>
    <tag></tag>
    <comment>Story: Book an appointment
 Given that the user has logged into their account
