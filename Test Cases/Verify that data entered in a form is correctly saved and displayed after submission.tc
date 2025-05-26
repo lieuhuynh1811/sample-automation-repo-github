@@ -9,7 +9,7 @@ Steps:
 
 Expected result:
 'Appointment' section is displayed after successful login</description>
-   <name>_Verify that data entered in a form is correctly saved and displayed after submission(),.- updated</name>
+   <name>Verify that data entered in a form is correctly saved and displayed after submission</name>
    <tag></tag>
    <comment>Story: Login to CURA system
 Given that the user has valid login information

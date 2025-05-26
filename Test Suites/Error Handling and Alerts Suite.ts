@@ -79,7 +79,7 @@
       <guid>e03afc3c-b3ff-4963-b110-8719947aa02a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/_Verify that data entered in a form is correctly saved and displayed after submission(),.- updated</testCaseId>
+      <testCaseId>Test Cases/Verify that data entered in a form is correctly saved and displayed after submission</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLinks>
          <testDataLinkId></testDataLinkId>
