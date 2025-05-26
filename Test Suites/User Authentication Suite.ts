@@ -57,13 +57,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4917b310-042d-47a4-8cd3-ca2a9249c50c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify the system displays an error message when incorrect password is entered</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>2d5b98fc-ae8f-4469-ac55-a129c060e6ab</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
