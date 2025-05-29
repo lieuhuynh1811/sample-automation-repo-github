@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verify the homepage loads within 2 seconds on a stable internet connection</name>
+   <name>Verify the homepage loads within 2 seconds on a stable internet connection rename</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
