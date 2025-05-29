@@ -9,7 +9,7 @@ Steps:
 
 Expected results:
 Appointment Confirmation page is displayed</description>
-   <name>Verify that clicking the Submit button without filling required fields shows validation messages</name>
+   <name>Verify that clicking the Submit button without filling required fields shows validation</name>
    <tag></tag>
    <comment>Story: Book an appointment
 Given that the user has logged into their account

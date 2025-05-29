@@ -34,7 +34,7 @@
       <guid>98811b78-a73e-4d17-80dd-f3b3f34b15fd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify that clicking the Submit button without filling required fields shows validation messages</testCaseId>
+      <testCaseId>Test Cases/Main Test Cases/Verify that clicking the Submit button without filling required fields shows validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
