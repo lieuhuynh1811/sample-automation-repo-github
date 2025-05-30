@@ -15,7 +15,7 @@
       <guid>9563008f-4c03-4a96-a88f-976b127ec612</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify that all dropdown menus display the correct list of options</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases/Verify that all dropdown menus display the correct list of options</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
