@@ -15,7 +15,7 @@
       <guid>d70d133a-a99d-4001-84b9-4c0dbc971679</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the user can reset their password via the Forgot Password link</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases/Verify the user can reset their password via the Forgot Password link</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
