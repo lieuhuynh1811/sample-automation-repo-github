@@ -34,7 +34,7 @@
       <guid>2ac9e42c-e3ca-4c3e-9e05-a644f3459594</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the user can upload a profile picture in supported file formats (e.g., JPG, PNG)</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases/Verify the user can upload a profile picture in supported file formats (e.g., JPG, PNG)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
