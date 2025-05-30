@@ -15,7 +15,7 @@
       <guid>f6276197-ef12-47e6-a937-1de660250eee</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases/Verify the user is able to log in with valid credentials</testCaseId>
+      <testCaseId>Test Cases/Main Test Cases/Verify the user is able to log in with valid credentials</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -34,7 +34,7 @@
       <guid>2ac9e42c-e3ca-4c3e-9e05-a644f3459594</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases/Verify the user can upload a profile picture in supported file formats (e.g., JPG, PNG)</testCaseId>
+      <testCaseId>Test Cases/Main Test Cases/Verify the user can upload a profile picture in supported file formats (e.g., JPG, PNG)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -53,7 +53,7 @@
       <guid>d70d133a-a99d-4001-84b9-4c0dbc971679</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases/Verify the user can reset their password via the Forgot Password link</testCaseId>
+      <testCaseId>Test Cases/Main Test Cases/Verify the user can reset their password via the Forgot Password link</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -74,7 +74,7 @@
       <guid>2d5b98fc-ae8f-4469-ac55-a129c060e6ab</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
+      <testCaseId>Test Cases/Main Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

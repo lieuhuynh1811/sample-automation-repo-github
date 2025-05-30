@@ -15,7 +15,7 @@
       <guid>9ed6e59e-b7f1-4cb2-831a-355c52f82541</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases/Verify the user is able to log in with valid credentials</testCaseId>
+      <testCaseId>Test Cases/Main Test Cases/Verify the user is able to log in with valid credentials</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -34,7 +34,7 @@
       <guid>0839ac33-49c3-489d-b9b6-6ea183470811</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases/Verify the user can upload a profile picture in supported file formats (e.g., JPG, PNG)</testCaseId>
+      <testCaseId>Test Cases/Main Test Cases/Verify the user can upload a profile picture in supported file formats (e.g., JPG, PNG)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -53,7 +53,7 @@
       <guid>3b2a7b37-97f3-4ee1-a91a-5c3afc49cb3f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases/Verify the user can reset their password via the Forgot Password link</testCaseId>
+      <testCaseId>Test Cases/Main Test Cases/Verify the user can reset their password via the Forgot Password link</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
