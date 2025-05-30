@@ -22,7 +22,7 @@
       <guid>4917b310-042d-47a4-8cd3-ca2a9249c50c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the system displays an error message when incorrect password is entered</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases/Verify the system displays an error message when incorrect password is entered</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
