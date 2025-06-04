@@ -67,7 +67,7 @@
       <guid>c31f96ea-51ba-49da-83c5-c44b86e777e1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/_Verify the search functionality returns relevant results for a given keyword(),.- updated</testCaseId>
+      <testCaseId>Test Cases/Verify the search functionality returns relevant results for a given keyword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
