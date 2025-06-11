@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>_Verify the search functionality returns relevant results for a given keyword(),.- updated</name>
+   <name>Verify the search functionality returns relevant results for a given keyword</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
