@@ -31,7 +31,7 @@ Expected result:
       <properties>
          <entry>
             <key>featureArea</key>
-            <value>ASSETS,EXECUTIONS</value>
+            <value>INTEGRATIONS,PLANS,ASSETS,EXECUTIONS,REPORTS</value>
          </entry>
          <entry>
             <key>testType</key>
