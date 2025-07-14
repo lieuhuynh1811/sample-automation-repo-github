@@ -40,6 +40,7 @@ Then he should be able to login successfully</comment>
          </entry>
          <entry>
             <key>testType</key>
+            <value>Peformance Test</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
