@@ -36,7 +36,7 @@ Then he should be able to login successfully</comment>
       <properties>
          <entry>
             <key>featureArea</key>
-            <value>TEST-TC</value>
+            <value>TEST-TC,TEST-CLOUDS</value>
          </entry>
          <entry>
             <key>testType</key>
