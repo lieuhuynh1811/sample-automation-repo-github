@@ -35,7 +35,7 @@ Expected result:
          </entry>
          <entry>
             <key>testType</key>
-            <value>Feature Test,API Test</value>
+            <value>Feature Test,API Test,Peformance Test</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
