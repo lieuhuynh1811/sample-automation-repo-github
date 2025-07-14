@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Common test case used to login. 
+Steps:
+- Click on 'Book Appointment' button to login
+- Input username and password
+- Click on 'Login' button
+
+Expected result:
+'Appointment' section is displayed after successful login</description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b8bee0e-6081-11f0-9021-cdd6cdf6463e</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>2b8bee90-6081-11f0-9021-cdd6cdf6463e</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>2b8beec2-6081-11f0-9021-cdd6cdf6463e</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>featureArea</key>
+            <value>TEST,INTEGRATIONS,PLANS,ASSETS,EXECUTIONS,REPORTS</value>
+         </entry>
+         <entry>
+            <key>testType</key>
+            <value>Feature Test,API Test,Peformance Test</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+</TestCaseEntity>
