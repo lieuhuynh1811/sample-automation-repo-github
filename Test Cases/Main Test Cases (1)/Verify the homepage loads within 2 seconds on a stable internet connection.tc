@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify the homepage loads within 2 seconds on a stable internet connection</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f410a904-614a-11f0-a977-ed327fef01df</testCaseGuid>
+</TestCaseEntity>
