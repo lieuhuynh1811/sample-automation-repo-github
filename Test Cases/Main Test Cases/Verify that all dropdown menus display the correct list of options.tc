@@ -40,7 +40,7 @@ Then he should be able to login successfully</comment>
          </entry>
          <entry>
             <key>testType</key>
-            <value>Feature Test,API Test,Peformance Test</value>
+            <value>Feature Test,API Test,Peformance Test,!@#$%^&amp;*()_+</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
