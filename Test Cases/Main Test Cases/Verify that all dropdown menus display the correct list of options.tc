@@ -36,7 +36,7 @@ Then he should be able to login successfully</comment>
       <properties>
          <entry>
             <key>featureArea</key>
-            <value>INTEGRATIONS,ASSETS,EXECUTIONS</value>
+            <value>INTEGRATIONS,ASSETS,EXECUTIONS,!@#$%^&amp;*()_+</value>
          </entry>
          <entry>
             <key>testType</key>
