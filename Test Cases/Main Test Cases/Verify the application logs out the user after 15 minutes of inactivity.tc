@@ -23,7 +23,7 @@ Then he should be able to book a new appointment</comment>
       <properties>
          <entry>
             <key>integratedValue</key>
-            <value>{"author":null,"status":"PUBLISHED","assignee":"","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":["ADMIN","Katalon Studio","INTEGRATIONS"]},{"key":"testType","value":["API Test"]}]}}</value>
+            <value>{"author":null,"status":"PUBLISHED","assignee":"","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":["ADMIN","Katalon Studio","INTEGRATIONS"]},{"key":"testType","value":["API Test","Feature Test"]}]}}</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
