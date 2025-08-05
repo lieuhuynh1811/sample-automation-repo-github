@@ -6,4 +6,14 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>cc5f74b3-2793-4455-9f24-945196488d0a</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{"author":null,"status":"PUBLISHED","assignee":"","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":["Login"]},{"key":"testType","value":[]}]}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
 </TestCaseEntity>
