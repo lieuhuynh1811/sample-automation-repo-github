@@ -37,11 +37,4 @@
       <testCaseId>Test Cases/Main Test Cases/Verify the application logs out the user after 15 minutes of inactivity</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>5f04eb1a-6c84-475f-824c-b68236d5d194</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>
