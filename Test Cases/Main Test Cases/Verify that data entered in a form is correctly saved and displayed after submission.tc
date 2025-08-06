@@ -36,7 +36,7 @@ Then he should be able to login successfully</comment>
       <properties>
          <entry>
             <key>integratedValue</key>
-            <value>{"author":null,"status":"PUBLISHED","assignee":"","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":["Login"]},{"key":"testType","value":[]}]}}</value>
+            <value>{"author":null,"status":"PUBLISHED","assignee":"","linkedTestCaseIds":[],"customFields":{"customField":[{"key":"featureArea","value":["Login","Logout"]},{"key":"testType","value":[]}]}}</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
