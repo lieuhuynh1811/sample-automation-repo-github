@@ -12,13 +12,6 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>f35d05af-5354-4c30-9e14-026fe4cf9782</testSuiteGuid>
    <testCaseLink>
-      <guid>277908ea-68b0-445e-85cd-d5df3e832386</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the search functionality returns relevant results for a given keyword</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>d25f38e5-7faf-4e96-bdf6-cfa4e739628e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
