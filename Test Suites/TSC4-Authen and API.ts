@@ -15,16 +15,6 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Error Handling and Alerts Suite(Only Edit TS Name)</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
-            <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Chrome</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/Form Validation Scenarios(Update TS name, Add TC, Remove TC)</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
