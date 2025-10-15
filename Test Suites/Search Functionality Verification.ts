@@ -12,25 +12,6 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>ff888e85-7574-49d0-b328-d24e5d9b7aa1</testSuiteGuid>
    <testCaseLink>
-      <guid>9ed6e59e-b7f1-4cb2-831a-355c52f82541</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the user is able to log in with valid credentials</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>14d98e7b-4ac8-4e28-8ce7-394001d188f0</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
       <guid>3b2a7b37-97f3-4ee1-a91a-5c3afc49cb3f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
