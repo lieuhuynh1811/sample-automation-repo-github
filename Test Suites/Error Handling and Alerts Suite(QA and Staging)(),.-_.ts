@@ -12,25 +12,6 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>de52c099-4846-4587-9d8f-41e771555e9a</testSuiteGuid>
    <testCaseLink>
-      <guid>fd663211-3423-4703-91e6-017d6baff2d7</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify that all dropdown menus display the correct list of options</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLinks>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>b9ae2020-cead-4d3a-a4f8-56cfc91e6cd6</variableId>
-      </variableLinks>
-      <variableLinks>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>e5c0d540-2ad9-40a7-bb51-96f5c775c2cf</variableId>
-      </variableLinks>
-   </testCaseLink>
-   <testCaseLink>
       <guid>bf121c62-5153-4342-a06e-1f3de47c3bcf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
