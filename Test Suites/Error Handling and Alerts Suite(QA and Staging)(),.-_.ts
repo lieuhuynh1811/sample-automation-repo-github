@@ -34,7 +34,7 @@
       <guid>68614faf-15ce-418b-8ab7-82fac079611d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection</testCaseId>
+      &lt;testCaseId&gt;Test Cases/Common Test Cases/Verify the homepage loads within 2 seconds on a stable internet connection&lt;/testCaseId&gt;
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
