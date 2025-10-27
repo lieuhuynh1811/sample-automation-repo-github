@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Error Handling and Alerts Suite</testSuiteEntity>
+         &lt;testSuiteEntity&gt;Test Suites/Error Handling and Alerts Suite(QA and Staging)(),.-_&lt;/testSuiteEntity&gt;
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
