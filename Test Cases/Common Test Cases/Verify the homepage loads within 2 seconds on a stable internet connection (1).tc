@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify the homepage loads within 2 seconds on a stable internet connection (1)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1082c072-8f18-4223-bc06-0ab6edbb6bf5</testCaseGuid>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&amp;quot;author&amp;quot;:null,&amp;quot;status&amp;quot;:&amp;quot;PUBLISHED&amp;quot;,&amp;quot;assignee&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;linkedTestCaseIds&amp;quot;:[],&amp;quot;customFields&amp;quot;:{&amp;quot;customField&amp;quot;:[{&amp;quot;key&amp;quot;:&amp;quot;featureArea&amp;quot;,&amp;quot;value&amp;quot;:[]},{&amp;quot;key&amp;quot;:&amp;quot;testType&amp;quot;,&amp;quot;value&amp;quot;:[]}]},&amp;quot;priority&amp;quot;:&amp;quot;MEDIUM&amp;quot;,&amp;quot;automationStatus&amp;quot;:null}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+</TestCaseEntity>
