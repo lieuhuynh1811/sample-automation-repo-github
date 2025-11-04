@@ -10,7 +10,7 @@ Steps:
 Expected results:
 Appointment Confirmation page is displayed</description>
    <name>Verify that clicking the Submit button without filling required fields shows validation messages</name>
-   <tag>story_test_04112025</tag>
+   <tag>Release05112025,Release19112025,Rlease30112025,core-test-run-detail,core-test-case-detail,core-test-suite-detail,core-test-project-detail,core_test_case_detail,core_test_run_detail,core_test_suite_detail,core_test_project_detail,story_test_04112025</tag>
    <comment>Story: Book an appointment
 Given that the user has logged into their account
 And Appointment page is displayed
