@@ -10,7 +10,7 @@ Steps:
 Expected result:
 'Appointment' section is displayed after successful login</description>
    <name>Verify that all dropdown menus display the correct list of options (1)</name>
-   <tag></tag>
+   <tag>story_test_04112025</tag>
    <comment>Story: Login to CURA system
 Given that the user has valid login information
 When he logins to CURA system
