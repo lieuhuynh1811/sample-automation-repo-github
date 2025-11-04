@@ -35,12 +35,8 @@ Then he should be able to login successfully</comment>
       <productName>TESTOPS</productName>
       <properties>
          <entry>
-            <key>featureArea</key>
-            <value>INTEGRATIONS,ASSETS,EXECUTIONS</value>
-         </entry>
-         <entry>
-            <key>testType</key>
-            <value>Feature Test,API Test,Peformance Test</value>
+            <key>integratedValue</key>
+            <value>{&amp;quot;author&amp;quot;:null,&amp;quot;status&amp;quot;:&amp;quot;PUBLISHED&amp;quot;,&amp;quot;assignee&amp;quot;:&amp;quot;lieu.huynh+core.com&amp;quot;,&amp;quot;linkedTestCaseIds&amp;quot;:[],&amp;quot;customFields&amp;quot;:{&amp;quot;customField&amp;quot;:[{&amp;quot;key&amp;quot;:&amp;quot;featureArea&amp;quot;,&amp;quot;value&amp;quot;:[]},{&amp;quot;key&amp;quot;:&amp;quot;testType&amp;quot;,&amp;quot;value&amp;quot;:[]}]},&amp;quot;priority&amp;quot;:&amp;quot;MEDIUM&amp;quot;,&amp;quot;automationStatus&amp;quot;:null}</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
