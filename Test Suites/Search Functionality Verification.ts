@@ -37,11 +37,4 @@
       <testCaseId>Test Cases/Main Test Cases/Verify the user can reset their password via the Forgot Password link - leoleo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>09fe5f63-935b-4e5c-bf2a-9e951e9ce279</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/Verify the system displays an error message when incorrect password is entered - renaming</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>
