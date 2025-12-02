@@ -8,7 +8,7 @@ Steps:
 
 Expected result:
 'Appointment' section is displayed after successful login</description>
-   <name>Login rename</name>
+   <name>Login rename - leoleo</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>dc59940a-fb78-4da3-82c6-7ff4bffcfd97</testCaseGuid>
@@ -31,7 +31,7 @@ Expected result:
       <properties>
          <entry>
             <key>integratedValue</key>
-            <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;PUBLISHED&quot;,&quot;assignee&quot;:&quot;lieu.huynh.com&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[]}]},&quot;priority&quot;:&quot;MEDIUM&quot;,&quot;automationStatus&quot;:null}</value>
+            <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;PUBLISHED&quot;,&quot;assignee&quot;:&quot;lieu.huynh@katalon.com&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[]}]},&quot;priority&quot;:&quot;MEDIUM&quot;,&quot;automationStatus&quot;:null}</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
